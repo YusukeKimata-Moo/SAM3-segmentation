@@ -1,6 +1,6 @@
 # SAM3 Video Segmentation Notebook
 
-This repository contains a Google Colab notebook for performing segmentation of live-cell imaging data using Meta's **Segment Anything Model 3 (SAM 3)**.
+This repository contains a Google Colab notebook for performing segmentation of live-cell imaging data using Meta's [**Segment Anything Model 3 (SAM 3)**](https://ai.meta.com/sam3/).
 
 ## 🚀 Overview
 
@@ -56,3 +56,4 @@ To use SAM 3, you **must** have a HuggingFace account and an access token with p
 - **References**:
   - [Meta Research SAM 3](https://github.com/facebookresearch/sam3)
   - [Roboflow Notebook](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-videos-with-segment-anything-3.ipynb)
+
