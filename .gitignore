@@ -1,0 +1,21 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Input Data
+input/
+
+# Generated Output
+output_mask/
+output_merged/
+
+# Dependencies (cloned)
+sam3/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System
+.DS_Store
+Thumbs.db
